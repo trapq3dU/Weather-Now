@@ -53,12 +53,12 @@ function showError(error){
 // ok, now time to get the weather
 function getWeather(latitude, longitude){
 
-    let apiCall = `http://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=${apiKey}`;
+    let apiCall = `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=${apiKey}`;
     
     fetch(apiCall)
         .then(function(response){
             let data = response.json();
-            console.log(data);
+            //console.log(data);
             return data;
         })
         .then(function(data){
