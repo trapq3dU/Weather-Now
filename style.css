@@ -1,0 +1,69 @@
+* {
+    margin: 0 auto;
+    padding: 0px
+}
+
+body {
+    background-color: #213131;
+    font-family: 'Gluten', cursive;
+    font-family: 'Merienda', cursive;
+}
+
+.container {
+    display: block;
+    background-color:rgb(108, 114, 114);
+    margin-top: 30px;
+    width: 350px;
+    height: fit-content;
+    border-radius: 20px;
+    box-shadow: 0px 0px 5px 5px #01250f;
+}
+
+p {
+    display: block;
+    padding: 10px;
+    color: #2b2a2a;
+    justify-content: justify;
+    text-align: center;
+    margin: 5px auto;
+}
+
+img {
+    display: block;    
+}
+
+#notification {
+    display: block;
+    font-weight: bolder;
+}
+
+#title {
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(82, 45, 2);
+}
+
+
+
+#title, #notification, #temperature, #description, #wind, #location {
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+#title {
+    padding-top: 30px;
+}
+
+#location {
+    padding-bottom:30px;
+}
+#notification {
+    color:#9b0606b9;
+    font-size: 20px;
+    font-weight:bolder;
+}
+
+#temperature:hover {
+    cursor: pointer;
+    color: rgb(8, 6, 128);
+}
