@@ -10,7 +10,7 @@
 * It uses you IP address to know your current location.
 
 # *How to use?*
-click [here](https://trapq3du-weather-now.netlify.app/ "My Weather") and allow location access
+Click [here](https://trapq3du-weather-now.netlify.app/ "My Weather") and allow location access
 
 # *Hosted link:*
 
