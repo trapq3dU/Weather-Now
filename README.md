@@ -14,4 +14,4 @@ Click [here](https://trapq3du-weather-now.netlify.app/ "My Weather") and allow l
 
 # *Hosted link:*
 
-This project hosted [here](https://trapq3du-simple-calculator.netlify.app/ "Simple Calculator")
+This project hosted [here](https://trapq3du-weather-now.netlify.app// "Simple Calculator")
